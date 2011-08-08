@@ -35,7 +35,7 @@ License
 
 Changes
 -------
-  Planned in 1.0.0
+  Planned in 3.0.0 (new generation)
   - Add ECC support (and related algorithms)
   - OpenSSL plugin shall comply with 1.0.0 version changes (up from 0.9.6)
   - Redesign some original API
